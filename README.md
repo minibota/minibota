@@ -3,8 +3,7 @@
 Tech Architect · Founder · Hands-on Engineer  
 I design and build systems that deal with **complex rules, data validation, and automation**, with a strong focus on **clarity, performance, and long-term maintainability**.
 
-I usually work **end-to-end**: from problem framing and architecture to implementation and iteration in production.  
-I’m especially comfortable in **early-stage, high-ownership environments** and in **technical consulting contexts** where decisions matter.
+I usually work **end-to-end**: from problem framing and architecture to implementation and iteration in production. I’m especially comfortable in **early-stage, high-ownership environments** and in **technical consulting contexts** where decisions matter.
 
 ---
 
