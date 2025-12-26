@@ -11,7 +11,7 @@ I usually work **end-to-end**: from problem framing and architecture to implemen
 
 I tend to focus on a small number of systems at a time, each exploring a different architectural concern.
 
-### 🧠 RuleGenius (Founder)
+### RuleGenius (Founder)
 **Domain:** rule engines, validation, data governance  
 **Focus:** turning complex, evolving rules into explicit, testable systems  
 
@@ -27,7 +27,7 @@ This project strongly informs my thinking around long-lived systems and governan
 
 ---
 
-### 💬 Form-Talk
+### Form-Talk
 **Domain:** conversational systems, workflows  
 **Focus:** interaction as a first-class architectural concern  
 
@@ -41,7 +41,7 @@ Key ideas:
 
 ---
 
-### ⏱️ CronCommander
+### CronCommander
 **Domain:** scheduling, automation, orchestration  
 **Focus:** reliable time-based execution  
 
@@ -56,7 +56,7 @@ Key ideas:
 
 ## Selected Client Work (Private Systems)
 
-### 🌱 Sustainability Information System (SIS)
+### Sustainability Information System (SIS)
 **Context:** long-lived production system for an international sustainability organization  
 **Status:** active, multi-year, real-world usage  
 
