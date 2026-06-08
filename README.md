@@ -11,7 +11,7 @@ I usually work **end-to-end**: from problem framing and architecture to implemen
 
 I tend to focus on a small number of systems at a time, each exploring a different architectural concern.
 
-### RuleGenius (Founder)
+### RuleGenius / RulesWork (Founder)
 **Domain:** rule engines, validation, data governance  
 **Focus:** turning complex, evolving rules into explicit, testable systems  
 
