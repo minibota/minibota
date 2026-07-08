@@ -61,20 +61,22 @@ Key ideas:
 
 ## Selected Client Work
 
-### Sustainability Information System (Private)
+### Sustainability Information System (SIS) — Private Production Platform
 
-One of my largest production systems has been the design and evolution of a Sustainability Information System supporting international sustainability programs, multiple stakeholders, and evolving data standards.
+Designed and evolved a private Sustainability Information System used to support international sustainability programs across multiple organizations, stakeholder types, and reporting workflows.
 
-Architectural challenges included:
+The system handles complex sustainability data collection, validation, assessment, auditability, and governance requirements in a multi-tenant production environment. Much of the work involved turning changing standards and program-specific rules into maintainable application architecture.
 
-- Large-scale data validation
-- Rule-driven assessments
-- Multi-tenant architecture
-- Auditability and governance
-- Evolving schemas
-- Performance and scalability
+Key engineering areas included:
 
-Although the platform is private, it represents some of my most demanding architectural work.
+- Multi-tenant access control and data isolation
+- Rule-driven assessments and validation workflows
+- Audit-ready data modeling and traceability
+- Schema evolution for changing sustainability standards
+- Performance improvements for large operational datasets
+- Governance workflows across clients, suppliers, and program administrators
+
+Because the platform is private, source code and implementation details are not public. It represents some of my most substantial work in production architecture, domain modeling, security-conscious design, and long-term system evolution.
 
 ---
 
