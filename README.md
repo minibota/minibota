@@ -107,7 +107,7 @@ I enjoy working close to the system:
   - Compute Engine
   - Cloud SQL
   - Cloud Storage
-  - Secret Manager
+  - Cloud Schedule
 
 ---
 
