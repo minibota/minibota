@@ -82,7 +82,7 @@ Because the platform is private, source code and implementation details are not 
 
 ## Core Technologies
 
-**Linux • Python • Java • C/C++ • PostgreSQL • Google Cloud Platform • Cloud Run • Docker • REST APIs • Data Engineering • Automation • Software Architecture**
+**Linux • Python • Java • C/C++ • PostgreSQL • MySQL • Google Cloud Platform • Cloud Run • Docker • REST APIs • Data Engineering • Automation • Software Architecture**
 
 ---
 
