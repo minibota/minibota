@@ -1,113 +1,128 @@
 # Pavel Stephan Muñoz
 
-Tech Architect · Founder · Hands-on Engineer  
-I design and build systems that deal with **complex rules, data validation, and automation**, with a strong focus on **clarity, performance, and long-term maintainability**.
+Technology Architect · Founder of Minibota Labs LLC · Hands-on Engineer
 
-I usually work **end-to-end**: from problem framing and architecture to implementation and iteration in production. I’m especially comfortable in **early-stage, high-ownership environments** and in **technical consulting contexts** where decisions matter.
+I design and build **cloud platforms, Linux-based systems, backend software, automation workflows, and data-intensive applications**, with a strong focus on **clarity, performance, and long-term maintainability**.
+
+I enjoy solving complex technical problems end-to-end—from architecture and infrastructure to implementation and production. My work combines **software architecture, Linux, cloud infrastructure, data engineering, and automation** to build systems that remain understandable and maintainable for years.
+
+Building:
+- 🚀 CronCommander → https://www.croncommander.com
+- ⚙️ RuleGenius → https://www.rulegenius.com
+- 💬 Form-Talk → https://www.form-talk.com
 
 ---
 
-## What I work on
+## Featured Products
 
-I tend to focus on a small number of systems at a time, each exploring a different architectural concern.
+### CronCommander (Founder)
+**Domain:** scheduling, automation, orchestration  
+**Status:** Public product
 
-### RuleGenius / RulesWork (Founder)
-**Domain:** rule engines, validation, data governance  
-**Focus:** turning complex, evolving rules into explicit, testable systems  
-
-RuleGenius is my main product initiative. It explores how to model, evaluate, and evolve rule-based logic without hard-coding it into application code.
+CronCommander is a modern platform for monitoring, managing, and understanding scheduled workloads. It explores how to build reliable control planes for time-based execution with strong observability and operational clarity.
 
 Key ideas:
-- Rule abstraction vs. hard-coded logic
-- Human-readable DSLs for validation
-- Versioning and auditability of rules
-- Performance at scale
+- Reliable scheduled execution
+- Automation ownership
+- Observability and diagnostics
+- Cloud-native architecture
 
-This project strongly informs my thinking around long-lived systems and governance-heavy domains.
+---
+
+### RuleGenius (Founder)
+**Domain:** rule engines, validation, data governance  
+**Status:** In active development
+
+RuleGenius explores how complex business rules can be modeled, versioned, tested, and evolved without embedding them directly into application code.
+
+Key ideas:
+- Rule abstraction
+- Human-readable DSLs
+- Versioning and auditability
+- High-performance rule evaluation
+
+This project strongly influences my thinking around long-lived systems and governance-heavy domains.
 
 ---
 
 ### Form-Talk
 **Domain:** conversational systems, workflows  
-**Focus:** interaction as a first-class architectural concern  
+**Status:** Research & development
 
-Form-Talk explores how structured data collection can be modeled as a conversation rather than a static form.  
-Architecturally, it leans into **event-driven flows** and explicit state transitions.
+Form-Talk explores how structured data collection can become a conversation instead of a traditional form, emphasizing event-driven workflows and explicit state transitions.
 
 Key ideas:
-- Conversation-driven workflows
-- Decoupling interaction from data models
+- Conversational workflows
 - Progressive validation
+- Event-driven architecture
+- Human-centered data collection
 
 ---
 
-### CronCommander
-**Domain:** scheduling, automation, orchestration  
-**Focus:** reliable time-based execution  
+## Selected Client Work
 
-CronCommander is an exploration of **control planes for scheduled work**: what runs, when, why, and under which guarantees.
+### Sustainability Information System (Private)
 
-Key ideas:
-- Idempotent scheduled jobs
-- Observability of time-based processes
-- Explicit ownership of automation
+One of my largest production systems has been the design and evolution of a Sustainability Information System supporting international sustainability programs, multiple stakeholders, and evolving data standards.
 
----
+Architectural challenges included:
 
-## Selected Client Work (Private Systems)
-
-### Sustainability Information System (SIS)
-**Context:** long-lived production system for an international sustainability organization  
-**Status:** active, multi-year, real-world usage  
-
-I led the design and implementation of a large-scale Sustainability Information System operating under real-world constraints: evolving standards, multiple stakeholders, and high data quality requirements.
-
-Architectural challenges addressed:
-- Data validation and quality enforcement
-- Evolving schemas and backward compatibility
+- Large-scale data validation
 - Rule-driven assessments
+- Multi-tenant architecture
 - Auditability and governance
-- Balancing flexibility with performance
+- Evolving schemas
+- Performance and scalability
 
-While the codebase is private, this system represents some of my most demanding and instructive architectural work.
+Although the platform is private, it represents some of my most demanding architectural work.
 
 ---
 
-## How I like to work
+## Core Technologies
+
+**Linux • Python • Java • C/C++ • PostgreSQL • Google Cloud Platform • Cloud Run • Docker • REST APIs • Data Engineering • Automation • Software Architecture**
+
+---
+
+## How I Like to Work
 
 - High ownership, low ceremony
 - Clear boundaries and explicit trade-offs
-- Systems that are understandable years later
+- Systems that remain understandable years later
 - Fewer abstractions, but better ones
 
-I work best with teams that value **thinking before scaling** and **simplicity over cleverness**.
+I work best with teams that value **thinking before scaling**, **simplicity over cleverness**, and **well-engineered systems over quick hacks**.
 
-I’m very comfortable working close to the system:
+I enjoy working close to the system:
 
-- Linux servers via SSH, without a graphical interface
-- Long-lived processes, logs, and production debugging
+- Linux servers via SSH
+- Backend services and distributed systems
+- Production debugging and observability
+- Cloud infrastructure
+- Data pipelines and automation
 - Google Cloud Platform, especially:
   - Cloud Run
-  - Compute Engine (VMs)
-  - Cloud Storage
+  - Compute Engine
   - Cloud SQL
+  - Cloud Storage
   - Secret Manager
 
-I prefer environments where infrastructure and application concerns are visible and understandable, rather than abstracted away by heavy platforms.
+---
 
+## Available For
+
+- Software Architecture
+- Cloud Architecture (GCP)
+- Linux & Automation
+- Data Engineering
+- Fractional CTO
+- Product Development
+- Technical Consulting
 
 ---
 
-## Open to
+📍 Madrid, Spain
 
-- Early-stage or product-driven startups
-- Founding / Staff / Principal engineering roles
-- Technical consulting and architecture-heavy engagements
+🏢 Founder of **Minibota Labs LLC**
 
-I’m less excited by bureaucracy-heavy environments, but open to the right problems and people.
-
----
-
-📍 Madrid, Spain  
 🌐 https://www.minibota.com
-
